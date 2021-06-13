@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 
+
+안드로이드 개발자 임준혁입니다.
 
 <!--
 **gurdlwl/gurdlwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
